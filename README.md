@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **MySql Advanced Developer**
 
-- 👨‍💻 All of my projects are available at [henrymurangiri.com](https://henrymurangiri.com)
+- 👨‍💻 My projects are available at [henrymurangiri.com](https://henrymurangiri.com)
 
-- 📝 I regularly write articles on [www.skillswing.com](www.skillswing.com)
+- 📝 I regularly write articles on [www.skillswing.com](https://queryfun.com)
 
 - 💬 Ask me about **Java, Php, React, Css**
 
 - 📫 How to reach me **henrymurangiri@gmail.com**
 
-- 📄 Know about my experiences [henrymurangiri.com](henrymurangiri.com)
+- 📄 Know about my experiences [henrymurangiri.com](https://henrymurangiri.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
