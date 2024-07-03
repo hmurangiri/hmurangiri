@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [www.skillswing.com](https://queryfun.com)
 
-- 💬 Ask me about **Java, Php, React, Css**
+- 💬 Ask me about **Excel, PowerBI, SQL, MySQL, Python, Java, Php, React, Css**
 
 - 📫 How to reach me **henrymurangiri@gmail.com**
 
