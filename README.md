@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MySql Advanced Developer**
 
-- 👨‍💻 All of my projects are available at [henrymurangiri.com](henrymurangiri.com)
+- 👨‍💻 All of my projects are available at [henrymurangiri.com](https://henrymurangiri.com)
 
 - 📝 I regularly write articles on [www.skillswing.com](www.skillswing.com)
 
