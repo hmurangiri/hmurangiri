@@ -2,12 +2,13 @@
 <h3 align="center">I am a passionate data analyst from Kenya.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmurangiri&label=Profile%20views&color=0e75b6&style=flat" alt="hmurangiri" /> </p>
+<h3 align="left">About me:</h3>
 
 - 🔭 I’m currently working on **Inventory Management Project**
 
 - 🌱 I’m currently learning **MySql Advanced Developer**
 
-- 👨‍💻 My projects are available at [henrymurangiri.com](https://henrymurangiri.com)
+- 👨‍💻 View my resume at [henrymurangiri.com](https://henrymurangiri.com)
 
 - 📝 I regularly write articles on [www.queryfun.com](https://queryfun.com)
 
@@ -16,6 +17,11 @@
 - 📫 How to reach me **henrymurangiri@gmail.com**
 
 - 📄 Know about my experiences [henrymurangiri.com](https://henrymurangiri.com)
+
+<h3 align="left">Projects:</h3>
+
+- Inventory management System - [Inventory](https://www.skillswing.com/projects/inventory/)
+- Excel Blog - [queryfun.com](https://queryfun.com/excel-topics/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
