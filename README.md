@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [www.queryfun.com](https://queryfun.com)
 
-- 💬 Ask me about **Excel, PowerBI, SQL, MySQL, Python, Java, Php, React, Css**
+- 💬 Ask me about **Excel, PowerQuery, PowerBI, SQL, MySQL, Python, Java, Php, ReactJs, Css**
 
 - 📫 How to reach me **henrymurangiri@gmail.com**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Projects:</h3>
 
-- Dynamic QR Code Solution - [Inventory](https://qr-flex.com)
+- Dynamic QR Code Solution - [Qr-Flex](https://qr-flex.com)
 - Data Science Blog - [queryfun.com](https://queryfun.com)
 
 <h3 align="left">Connect with me:</h3>
