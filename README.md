@@ -20,8 +20,8 @@
 
 <h3 align="left">Projects:</h3>
 
-- Inventory management System - [Inventory](https://www.skillswing.com/projects/inventory/)
-- Excel Blog - [queryfun.com](https://queryfun.com/excel-topics/)
+- Dynamic QR Code Solution - [Inventory](https://qr-flex.com)
+- Data Science Blog - [queryfun.com](https://queryfun.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
